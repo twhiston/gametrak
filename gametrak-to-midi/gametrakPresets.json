@@ -1,0 +1,129 @@
+{
+	"pattrstorage" : 	{
+		"name" : "gametrakPresets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"midi-FSw-ch" : [ 26 ],
+					"midi-FSw-on" : [ 0 ],
+					"preset-name" : [ "all", "off" ],
+					"mapping-midi-LX::mapping-midi-ch" : [ 20 ],
+					"mapping-midi-LX::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LX::mapping-midi-on" : [ 0 ],
+					"mapping-midi-LX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LY::mapping-midi-ch" : [ 21 ],
+					"mapping-midi-LY::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LY::mapping-midi-on" : [ 0 ],
+					"mapping-midi-LY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-ch" : [ 22 ],
+					"mapping-midi-LZ::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LZ::mapping-midi-on" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-out-min" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-ch" : [ 23 ],
+					"mapping-midi-RX::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RX::mapping-midi-on" : [ 0 ],
+					"mapping-midi-RX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RY::mapping-midi-ch" : [ 24 ],
+					"mapping-midi-RY::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RY::mapping-midi-on" : [ 0 ],
+					"mapping-midi-RY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-ch" : [ 25 ],
+					"mapping-midi-RZ::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RZ::mapping-midi-on" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-out-min" : [ 127 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"midi-FSw-ch" : [ 26 ],
+					"midi-FSw-on" : [ 0 ],
+					"preset-name" : [ "all", "on" ],
+					"mapping-midi-LX::mapping-midi-ch" : [ 20 ],
+					"mapping-midi-LX::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LX::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LY::mapping-midi-ch" : [ 21 ],
+					"mapping-midi-LY::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LY::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-ch" : [ 22 ],
+					"mapping-midi-LZ::mapping-midi-change" : [ 1 ],
+					"mapping-midi-LZ::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-out-min" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-ch" : [ 23 ],
+					"mapping-midi-RX::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RX::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RY::mapping-midi-ch" : [ 24 ],
+					"mapping-midi-RY::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RY::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-ch" : [ 25 ],
+					"mapping-midi-RZ::mapping-midi-change" : [ 1 ],
+					"mapping-midi-RZ::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-out-min" : [ 127 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"midi-FSw-ch" : [ 26 ],
+					"midi-FSw-on" : [ 0 ],
+					"preset-name" : [ "all", "on", "-", "no", "rep", "filter" ],
+					"mapping-midi-LX::mapping-midi-ch" : [ 20 ],
+					"mapping-midi-LX::mapping-midi-change" : [ 0 ],
+					"mapping-midi-LX::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LY::mapping-midi-ch" : [ 21 ],
+					"mapping-midi-LY::mapping-midi-change" : [ 0 ],
+					"mapping-midi-LY::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-LY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-ch" : [ 22 ],
+					"mapping-midi-LZ::mapping-midi-change" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-on" : [ 1 ],
+					"mapping-midi-LZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-LZ::mapping-midi-out-min" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-ch" : [ 23 ],
+					"mapping-midi-RX::mapping-midi-change" : [ 0 ],
+					"mapping-midi-RX::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RX::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RX::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RY::mapping-midi-ch" : [ 24 ],
+					"mapping-midi-RY::mapping-midi-change" : [ 0 ],
+					"mapping-midi-RY::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RY::mapping-midi-out-max" : [ 127 ],
+					"mapping-midi-RY::mapping-midi-out-min" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-ch" : [ 25 ],
+					"mapping-midi-RZ::mapping-midi-change" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-on" : [ 1 ],
+					"mapping-midi-RZ::mapping-midi-out-max" : [ 0 ],
+					"mapping-midi-RZ::mapping-midi-out-min" : [ 127 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
