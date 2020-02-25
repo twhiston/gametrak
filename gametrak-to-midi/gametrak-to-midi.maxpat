@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 104.0, 79.0, 822.0, 456.0 ],
+		"rect" : [ 120.0, 154.0, 820.0, 453.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -21,7 +21,7 @@
 		"gridsnaponopen" : 1,
 		"objectsnaponopen" : 1,
 		"statusbarvisible" : 2,
-		"toolbarvisible" : 1,
+		"toolbarvisible" : 0,
 		"lefttoolbarpinned" : 0,
 		"toptoolbarpinned" : 0,
 		"righttoolbarpinned" : 0,
@@ -29,8 +29,8 @@
 		"toolbars_unpinned_last_save" : 0,
 		"tallnewobj" : 0,
 		"boxanimatetime" : 200,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
+		"enablehscroll" : 0,
+		"enablevscroll" : 0,
 		"devicewidth" : 0.0,
 		"description" : "",
 		"digest" : "",
@@ -44,7 +44,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 365.0, 38.0, 150.0, 74.0 ],
+					"patching_rect" : [ 365.0, 38.0, 153.0, 74.0 ],
 					"text" : "It's possible you will need to change the route values depending on your gametrak eg.\nroute 15 16 17 18 19 20 3"
 				}
 
@@ -96,7 +96,7 @@
 					"patching_rect" : [ 111.5, 96.25, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 506.0, 289.166667699813843, 28.366666597128187, 20.0 ],
-					"text" : "Ch"
+					"text" : "CC"
 				}
 
 			}
@@ -195,7 +195,7 @@
 					"patching_rect" : [ 1362.0, 269.0, 100.0, 50.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 586.0, 219.0, 129.0, 22.0 ],
-					"text" : "all off",
+					"text" : "all on",
 					"varname" : "preset-name"
 				}
 
@@ -442,11 +442,11 @@
 					"restore" : 					{
 						"midi-FSw-ch" : [ 26 ],
 						"midi-FSw-on" : [ 0 ],
-						"preset-name" : [ "all", "off" ]
+						"preset-name" : [ "all", "on" ]
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u046001057"
+					"varname" : "u408003771"
 				}
 
 			}
@@ -1627,7 +1627,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 11.595186999999999,
 					"id" : "obj-28",
-					"items" : [ "Karabiner VirtualHIDKeyboard", ",", "Keyboard Backlight", ",", "Apple Internal Keyboard / Trackpad", ",", "Apple Internal Keyboard / Trackpad 2", ",", "Apple Internal Keyboard / Trackpad 3", ",", "Apple Internal Keyboard / Trackpad 4", ",", "Apple Internal Keyboard / Trackpad 5" ],
+					"items" : [ "Apple Internal Keyboard / Trackpad", ",", "Apple Internal Keyboard / Trackpad 2", ",", "Apple Internal Keyboard / Trackpad 3", ",", "Apple Internal Keyboard / Trackpad 4", ",", "Apple Internal Keyboard / Trackpad 5", ",", "Keyboard Backlight", ",", "Karabiner VirtualHIDKeyboard" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -2312,14 +2312,14 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "gametrakPresets.json",
-				"bootpath" : "~/Documents/Max 8/Library/twlib/gametrak-to-midi",
+				"bootpath" : "~/Documents/Max 8/Library/gametrak/gametrak-to-midi",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mapping-midi.maxpat",
-				"bootpath" : "~/Documents/Max 8/Library/twlib/gametrak-to-midi",
+				"bootpath" : "~/Documents/Max 8/Library/gametrak/gametrak-to-midi",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

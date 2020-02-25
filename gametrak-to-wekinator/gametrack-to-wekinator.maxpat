@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 574.0, 79.0, 536.0, 614.0 ],
+		"rect" : [ 509.0, 134.0, 523.0, 601.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -21,7 +21,7 @@
 		"gridsnaponopen" : 1,
 		"objectsnaponopen" : 1,
 		"statusbarvisible" : 2,
-		"toolbarvisible" : 1,
+		"toolbarvisible" : 0,
 		"lefttoolbarpinned" : 0,
 		"toptoolbarpinned" : 0,
 		"righttoolbarpinned" : 0,
@@ -29,8 +29,8 @@
 		"toolbars_unpinned_last_save" : 0,
 		"tallnewobj" : 0,
 		"boxanimatetime" : 200,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
+		"enablehscroll" : 0,
+		"enablevscroll" : 0,
 		"devicewidth" : 0.0,
 		"description" : "",
 		"digest" : "",
@@ -2914,8 +2914,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 66.5, 430.0, 90.0, 22.0 ],
-					"text" : "loadmess 6666"
+					"patching_rect" : [ 66.5, 430.0, 97.0, 22.0 ],
+					"text" : "loadmess 12000"
 				}
 
 			}
@@ -3505,7 +3505,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 11.595186999999999,
 					"id" : "obj-28",
-					"items" : [ "Karabiner VirtualHIDKeyboard", ",", "Keyboard Backlight", ",", "Apple Internal Keyboard / Trackpad", ",", "Apple Internal Keyboard / Trackpad 2", ",", "Apple Internal Keyboard / Trackpad 3", ",", "Apple Internal Keyboard / Trackpad 4", ",", "Apple Internal Keyboard / Trackpad 5" ],
+					"items" : [ "Apple Internal Keyboard / Trackpad", ",", "Apple Internal Keyboard / Trackpad 2", ",", "Apple Internal Keyboard / Trackpad 3", ",", "Apple Internal Keyboard / Trackpad 4", ",", "Apple Internal Keyboard / Trackpad 5", ",", "Keyboard Backlight", ",", "Karabiner VirtualHIDKeyboard" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -4842,7 +4842,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "pitchbend-scaler.maxpat",
-				"bootpath" : "~/Documents/Max 8/Library/twlib/gametrak-wekinator",
+				"bootpath" : "~/Documents/Max 8/Library/gametrak/gametrak-to-wekinator",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
